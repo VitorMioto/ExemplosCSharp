@@ -1,0 +1,11 @@
+C:\Users\vitor\Documents\Estudo C#\EstudoClasses\EstudoClasses\bin\Debug\netcoreapp2.1\EstudoClasses.deps.json
+C:\Users\vitor\Documents\Estudo C#\EstudoClasses\EstudoClasses\bin\Debug\netcoreapp2.1\EstudoClasses.runtimeconfig.json
+C:\Users\vitor\Documents\Estudo C#\EstudoClasses\EstudoClasses\bin\Debug\netcoreapp2.1\EstudoClasses.runtimeconfig.dev.json
+C:\Users\vitor\Documents\Estudo C#\EstudoClasses\EstudoClasses\bin\Debug\netcoreapp2.1\EstudoClasses.dll
+C:\Users\vitor\Documents\Estudo C#\EstudoClasses\EstudoClasses\bin\Debug\netcoreapp2.1\EstudoClasses.pdb
+C:\Users\vitor\Documents\Estudo C#\EstudoClasses\EstudoClasses\obj\Debug\netcoreapp2.1\EstudoClasses.csprojAssemblyReference.cache
+C:\Users\vitor\Documents\Estudo C#\EstudoClasses\EstudoClasses\obj\Debug\netcoreapp2.1\EstudoClasses.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\Estudo C#\EstudoClasses\EstudoClasses\obj\Debug\netcoreapp2.1\EstudoClasses.AssemblyInfoInputs.cache
+C:\Users\vitor\Documents\Estudo C#\EstudoClasses\EstudoClasses\obj\Debug\netcoreapp2.1\EstudoClasses.AssemblyInfo.cs
+C:\Users\vitor\Documents\Estudo C#\EstudoClasses\EstudoClasses\obj\Debug\netcoreapp2.1\EstudoClasses.dll
+C:\Users\vitor\Documents\Estudo C#\EstudoClasses\EstudoClasses\obj\Debug\netcoreapp2.1\EstudoClasses.pdb
